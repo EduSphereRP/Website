@@ -18,7 +18,7 @@
     "devDependencies": {
       "eslint": "^8.17.0",
       "prettier": "^2.7.1",
-      "vue-loader": "^16.8.4"
+      "vue-loader": "^17.4.2"
     }
   }
   
